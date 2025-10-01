@@ -2,7 +2,7 @@
   
 ### DAG Graph View
 
-This screenshot shows the DAG graph in the Airflow UI. The three tasks are connected in sequence:
+This shows the DAG graph in the Airflow UI. The three tasks are connected in sequence:
 print_date → welcome_message → generate_random
 
 <div>
