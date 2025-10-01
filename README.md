@@ -10,6 +10,8 @@ print_date → welcome_message → generate_random
 
 </div>
 
+--- 
+
 ### Task Logs: Print Date (BashOperator)
 
 The logs confirm that the date command ran successfully, showing the system’s current date and time.
