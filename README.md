@@ -21,6 +21,8 @@ The logs confirm that the date command ran successfully, showing the system’s 
 
 </div>
 
+---
+
 ### Task Logs: Welcome Message (PythonOperator)
 
 This task runs the Python function print_welcome() and outputs the custom welcome message:
@@ -29,6 +31,7 @@ This task runs the Python function print_welcome() and outputs the custom welcom
 
 </div>
 
+---
 
 ### Task Logs: Generate Random (PythonOperator)
 
